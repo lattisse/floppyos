@@ -2,5 +2,3 @@ name = "floppyos"
 main = ".svelte-kit/cloudflare/_worker.js"
 compatibility_date = "2025-06-28"
 
-[site]
-bucket = ".svelte-kit/cloudflare"
